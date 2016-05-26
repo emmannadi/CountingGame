@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.jeffery.BJ1616939Task3.MainActivity">
+    <item
+        android:id="@+id/Letter_counting"
+        android:orderInCategory="100"
+        android:title="@string/Letter_Counting"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/Game_Holder_2"
+        android:orderInCategory="101"
+        android:title="@string/Game_Holder_2"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/Game_Holder_3"
+        android:orderInCategory="101"
+        android:title="@string/Game_Holder_3"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/Game_Holder_4"
+        android:orderInCategory="101"
+        android:title="@string/Game_Holder_4"
+        app:showAsAction="never"/>
+</menu>
